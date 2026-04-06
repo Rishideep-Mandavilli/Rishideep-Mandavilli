@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rishideep-Mandavilli/Rishideep-Mandavilli/main/Wallpaper%20Rishideep.png" width="100%" />
 </p>
 
 <h1 align="center" style="margin-top:-80px;">
