@@ -2,33 +2,52 @@
   <img src="https://raw.githubusercontent.com/Rishideep-Mandavilli/Rishideep-Mandavilli/main/Wallpaper%20Rishideep.png" width="100%" />
 </p>
 
-<h1 align="center" style="margin-top:-80px;">
-  <span style="color:#FFD700;">RISHIDEEP MANDAVILLI</span>
-</h1>
+<br>
 
 <p align="center">
-  <b style="color:#CCCCCC;">Engineering Student • AI Builder • System Designer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=26&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rishideep+Mandavilli;Designing+Intelligent+Systems;Precision+in+Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2a2a2a&height=2" width="55%"/>
 </p>
 
 ---
 
-### ⚡ Identity
-
-I build intelligent systems, not just projects.  
-Focused on creating impactful AI-driven solutions with precision and design thinking.
-
----
-
-### 🧠 Core Focus
-
-- Artificial Intelligence & Automation  
-- Computer Vision Systems  
-- Scalable Development  
-- Future Tech Exploration  
+### SYSTEM
+STATUS : ACTIVE
+MODE : BUILD
+FOCUS : INTELLIGENT SYSTEMS
 
 ---
 
-### ⚙️ Stack
+### INTERFACE
+
+<details>
+<summary>Open</summary>
+
+I work on systems that combine clarity, performance, and intelligence.  
+The goal is not complexity — but precision and impact.
+
+</details>
+
+---
+
+### DOMAINS
+
+<details>
+<summary>View</summary>
+
+Artificial Intelligence  
+Computer Vision  
+Automation Systems  
+Scalable Development  
+
+</details>
+
+---
+
+### STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github&theme=dark" />
@@ -36,14 +55,18 @@ Focused on creating impactful AI-driven solutions with precision and design thin
 
 ---
 
-### 📊 Metrics
+### LIVE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishideep-Mandavilli&show_icons=true&theme=transparent&title_color=FFD700&text_color=CCCCCC&icon_color=FFD700" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishideep-Mandavilli&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" />
 </p>
 
 ---
 
 <p align="center">
-  <i style="color:#888;">Crafting systems. Building intelligence.</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2a2a,100:1a1a1a&height=2" width="55%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=16&duration=4000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=500&lines=Quiet+systems+run+deep.;Consistency+over+noise.;Always+building." />
 </p>
