@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FFC6&center=true&vCenter=true&width=500&lines=system+booting...;injecting+logic...;activating+modules..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=2ECC71&center=true&vCenter=true&width=500&lines=system+booting...;injecting+logic...;activating+modules..." />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=8000&pause=400&color=00FFC6&center=true&vCenter=true&width=600&lines=user+:+Rishideep+•+state+:+active+•+mode+:+build" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=8000&pause=400&color=2E8B57&center=true&vCenter=true&width=600&lines=user+:+Rishideep+•+state+:+active+•+mode+:+build" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=8000&pause=500&color=FF512F&center=true&vCenter=true&width=700&lines=python+•+C%2FC%2B%2B+•+javascript+•+html%2Fcss+•+git+•+prompt+engineering" />
 </p>
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1800&pause=400&color=FF0080&center=true&vCenter=true&width=500&lines=running...;optimizing...;evolving..." />
